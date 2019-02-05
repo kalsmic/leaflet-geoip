@@ -1,0 +1,8 @@
+title: Leaflet-geoip
+description: GeoIP Plugin for Leaflet.js
+google_analytics: UA-13012608-4
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
